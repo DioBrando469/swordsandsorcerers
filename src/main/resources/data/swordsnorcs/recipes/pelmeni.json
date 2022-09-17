@@ -1,0 +1,23 @@
+{
+  "type": "minecraft.crafting_shapeless",
+  "ingredient":
+  [
+    {
+      "item": "swordsnsorcs:cookedpelmeni"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result":
+  {
+    "item": "swordsnsorcs:pelmeni",
+    "count": 3
+  }
+}

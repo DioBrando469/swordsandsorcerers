@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient":
+  {
+    "item": "swordsnsorcs:bucketofpelmen"
+  },
+  "result": "swordsnsorcs:cookedpelmeni",
+  "experience": 1,
+  "cookingtime": 200
+}
